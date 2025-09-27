@@ -1,0 +1,2 @@
+- Nickname: Phu
+- Favorite Food : Pizza
